@@ -21,3 +21,5 @@ console.log(myObject.a); // returns 3
 myObject.hasOwnProperty("a"); // returns True
 
 // I added the console.log's so I can see the output in my Javascript console.
+
+// Simple change to test Git command line
